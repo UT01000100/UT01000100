@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ugyen Thinley Dorjee</h1>
-<h3 align="center">Code Code Code/h3>
+<h3 align="center">Code Code Code</h3>
 
-
-<h6>Trophies</h6>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ut01000100" alt="ut01000100" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/ugyenthinleydo1" target="blank"><img src="https://img.shields.io/twitter/follow/ugyenthinleydo1?logo=twitter&style=for-the-badge" alt="ugyenthinleydo1" /></a> </p>
 
